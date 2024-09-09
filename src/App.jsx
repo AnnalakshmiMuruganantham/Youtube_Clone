@@ -1,6 +1,6 @@
 import Navbar from './Components/Navbar/Navbar';
 import { Routes,Route } from 'react-router-dom';
-import Home from './pages/home/home';
+import Home from './pages/Home/Home';
 import Vedio from './pages/Vedio/Vedio';
 import { useState } from 'react';
 
